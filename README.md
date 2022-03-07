@@ -1,7 +1,8 @@
 <h3 align="center"></b>🛠 My Tech Stack 🛠</b></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp </p>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=firebase&logoColor=white"/></a> &nbsp </p>
 <h3 align="center"></b>💙 Career 💙</b></h3> 
 
 |2020~|        Gachon University majoring in Korean Language & Literature and AI & Software       |
