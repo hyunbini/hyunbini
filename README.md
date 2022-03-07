@@ -1,6 +1,6 @@
 <h3 align="center"></b>🛠 My Tech/Languages Stack 🛠</b></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a> &nbsp </p>
 <h3 align="center"></b>🛠 My IDEs/Editors Stack 🛠</b></h3>
