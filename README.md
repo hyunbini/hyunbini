@@ -16,6 +16,3 @@
 
 |2020~|        Gachon University majoring in Korean Language & Literature and AI & Software       |
 |:-----:|:-----------------------------------------------------------------------------------:|
-|2020| Member of General Team, 36th Gachon University Humanities College Student Council, Emergency Response Committee|
-|2021| Head of Planning Team, 37th Gachon University Humanities College Student Council, 人:SIDE|
-|2022| Head of Planning Team, 38th Gachon University Student Council, Re:Born|
