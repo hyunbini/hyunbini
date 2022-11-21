@@ -5,8 +5,8 @@
 <img src="https://img.shields.io/badge/C++-%23ff0077.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a> &nbsp </p>
 <h3 align="center"></b>🛠 My Editors Stack 🛠</b></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a> &nbsp </p>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/></a> &nbsp </p>
 <h3 align="center"></b>🛠 My ML/DL Stack 🛠</b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/></a> &nbsp 
