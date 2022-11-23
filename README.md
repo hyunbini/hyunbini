@@ -12,9 +12,6 @@
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a> &nbsp </p>
-<h3 align="center"></b>💙 Career 💙</b></h3> 
-|2020~|        Gachon University majoring in Korean Language & Literature and AI & Software       |
-|:-----:|:-----------------------------------------------------------------------------------:|
 <h3 align="center">
 
 
