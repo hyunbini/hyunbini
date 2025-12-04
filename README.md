@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm Kim Hyun-Bin</h1>
 <p align="center">
 Recommendation System · AI · NLP 연구에 관심이 있는 대학생입니다.  
-데이터 기반 문제 해결과 ML/DL 관련 다양한 프로젝트를 진행하고 있습니다.
+데이터 기반 문제 해결과 ML/DL 관련 다양한 프로젝트를 진행합니다.
 </p>
 
 ---
