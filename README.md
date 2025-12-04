@@ -57,8 +57,8 @@ Perplexity filtering, Zipf’s law, back-translation 등 NLP 기반 전처리 �
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=hyunbini&show_icons=true&count_private=true&cache_seconds=1" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunbini&show_icons=true&count_private=true&cache_seconds=1" />
+  <img height="160px" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=hyunbini&show_icons=true" />
+  <img height="160px" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=hyunbini&layout=compact" />
 </p>
 
 ---
