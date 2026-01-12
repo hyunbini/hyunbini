@@ -35,7 +35,7 @@ Recommendation System · AI · NLP 연구에 관심이 있는 대학생입니다
 ---
 
 ## 🚀 Featured Projects
-** 추후 Project_Archive Repository 공개 예정
+
 
 ### 🔹 **Semantic Embedding-Based Recommendation System**
 KoSBERT 기반 의미 임베딩 공간을 구축하고, 신어(Neologism)가 추천 시스템의 의미 공간에 미치는 영향을 탐구한 프로젝트.
